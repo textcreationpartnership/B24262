@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Holwell's strange and wonderful prophesies foretelling what shall happen in Europe in the years 1697, 98, 99, and 1700. (v0z.) In 97. Foretelling the Poles beating the Tartars: the Turks obtaining victories over the Emperor: with several other things of note. In 98. Foretelling many divisions and commotions in Italy, tending to the subversion of the tripple-crown: vast fleets of ships at sea, and bloody sea fights. The power of France reduc'd to a low ebb by the victorious arms of England. In 99. Foretelling a full discovery of the treacherous contrivances of several courts of Europe. Likewise Holland is warned to take care of herself. bloody sea-fights this year; and a whole army, in the eastern parts of the world, destroyed by fire from heaven. 1700. Now will be the downfall of Rome: after which follows general peace over the whole earth, &amp;c.</title>
+            <title>Strange and wonderful prophesies.</title>
+            <author>Holwell, John, 1649-1686?</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24262</idno><idno type="EEBO-CITATION">99827208</idno>
+  <idno type="VID">207507</idno>
+  <idno type="EEBO-PROQUEST">2240922696</idno>
+  
+            <idno type="STC">Wing H2520</idno>
+            <idno type="PROQUEST">99827208</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827208e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207507)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1888:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Holwell's strange and wonderful prophesies foretelling what shall happen in Europe in the years 1697, 98, 99, and 1700. (v0z.) In 97. Foretelling the Poles beating the Tartars: the Turks obtaining victories over the Emperor: with several other things of note. In 98. Foretelling many divisions and commotions in Italy, tending to the subversion of the tripple-crown: vast fleets of ships at sea, and bloody sea fights. The power of France reduc'd to a low ebb by the victorious arms of England. In 99. Foretelling a full discovery of the treacherous contrivances of several courts of Europe. Likewise Holland is warned to take care of herself. bloody sea-fights this year; and a whole army, in the eastern parts of the world, destroyed by fire from heaven. 1700. Now will be the downfall of Rome: after which follows general peace over the whole earth, &amp;c.</title>
+                  <title>Strange and wonderful prophesies.</title>
+                  <author>Holwell, John, 1649-1686?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed at .. Fleetstreet, ..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page torn at foot with partial loss of imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207507:1"/>
+            <p>JOHN HOLWELL's Strange and Wonderful PROPHESIES, Foretelling what shall happen in <hi>Europe</hi> in the Years 1697, 98, 99, and 1700. <hi>(VIZ.)</hi>
+               <list>
+                  <item>In 97. Foretelling the <hi>Poles</hi> beating the <hi>Tartars:</hi> The <hi>Turks</hi> obtaining Victories over the <hi>Empe<g ref="char:EOLhyphen"/>ror:</hi> With several other things of note.</item>
+                  <item>In 98. Foretelling many Divisions and Commo<g ref="char:EOLhyphen"/>tions in <hi>Italy,</hi> tending to the Subversion of the <hi>Tripple-Crown:</hi> Vast Fleets of Ships at Sea, and bloody <hi>Sea Fights.</hi> The Power of <hi>France</hi> re<g ref="char:EOLhyphen"/>duc'd to a low Ebb by the Victorious Arms of <hi>England.</hi>
+                  </item>
+                  <item>In 99. Foretelling a full Discovery of the trea<g ref="char:EOLhyphen"/>cherous Contrivances of several Courts of <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> Likewise <hi>Holland</hi> is warned to take care of Herself. bloody <hi>Sea-Fights</hi> this Year; and a whole Army, in the Eastern Parts of the World, destroyed by Fire from Heaven.</item>
+                  <item>1700. Now will be the Downfall of <hi>Rome:</hi> Af<g ref="char:EOLhyphen"/>ter which follows <hi>general Peace</hi> over the whole Earth, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at <hi>Fleetstreet,</hi>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:207507:2"/>
+            <pb facs="tcp:207507:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:207507:3"/>
+            <head>Strange and Wonderful <hi>Prophesies, &amp;c.</hi>
+            </head>
+            <p>IN this Year, the Ascendant of the New Star comes by direction to the body of <hi>Mercury</hi> in <hi>Scorpio,</hi> and the Mid-heaven to the Conjun<g ref="char:EOLhyphen"/>ction of <hi>Saturn</hi> and <hi>Jupiter,</hi> 1682 There is also a notable Conjunction of <hi>Saturn</hi> and <hi>Mars</hi> on the 16th. day of <hi>December.</hi> There's also two remark<g ref="char:EOLhyphen"/>able Eclypses of the Moon, the first falls on <hi>May</hi> the 6th. at Midnight, in 27 degrees of <hi>Scorpio</hi> vi<g ref="char:EOLhyphen"/>sible; and the second falls on <hi>October</hi> 30 about 4 of the Clock in the Morning, in 18 degrees of <hi>Taurus</hi> also visible.</p>
+            <p>The Figuration of this Year makes me to judge that the <hi>Turk</hi> is not as yet in peace, neither hath the <hi>Tartar</hi> returned into his own Country, the <hi>Muscovite</hi> is still very much disturbed, and will not rest in Peace for some years. The <hi>Hollander</hi> about this time receiv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s very much damage by In<g ref="char:EOLhyphen"/>un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ations, and their loss of their Ships abroad, <hi>Ireland</hi> cannot be free from the Malevolent in<g ref="char:EOLhyphen"/>fluence of the Stars, the poor English that Inha<g ref="char:EOLhyphen"/>bit there will suffer much; thou treacherous <hi>Irish</hi> forbear to do so much mischief, if thou dost at<g ref="char:EOLhyphen"/>tempt to Invade <hi>England,</hi> you must expect to re<g ref="char:EOLhyphen"/>turn if you could, although at the first you may seem to get the b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter, yet it will be but a lightn<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:207507:3"/>before Death: Thou must not expect to be a free People, not this 20 Years; thou art like to have but small Crops of Corn, whether it will be from the Barrenness of the Earth, or because the Corn was destroved upon the ground by a re<g ref="char:EOLhyphen"/>bellious sort of People, or both, time will best dis<g ref="char:EOLhyphen"/>cover; a Person little less than a Queen should dye this Year in some Country under <hi>Taurus,</hi> The Eclypses of the Moon in <hi>Scorpio,</hi> declares Seditions, Murthers, and all manner of wreched<g ref="char:EOLhyphen"/>ness: In this year there are no less than two Trines of <hi>Saturn</hi> and <hi>Jupiter</hi> from <hi>Caprico<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us</hi> and <hi>Virgo, Saturn</hi> being in 23 degrees of <hi>Capricornus,</hi> and <hi>Jupiter</hi> 23 degrees of <hi>Virgo,</hi> strong will be the endeavours of the Princes of the Earth for Peace, and most People are in hopes of accomplishing that so much longed for thing; but behold, they have brought things, as to every one's thinking, to a Conclusion, then comes the <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Mars</hi> in <hi>Capricornus,</hi> and destroys all their hopes in a moment, and bloody Wars succeed.</p>
+            <div type="part">
+               <head>Of the Astrological Judgment for the Year 1697.</head>
+               <p>IN this Year we have no <hi>Directions</hi> of the great <hi>Conjunction,</hi> nor of the New star, 16<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4; but about <hi>August</hi> the 27th. day, there is an Op<g ref="char:EOLhyphen"/>position of <hi>Saturn</hi> and <hi>Mars, Saturn</hi> being in two degrees of <hi>Aquarius,</hi> and in 2 degrees of <hi>Leo;</hi> and there are three Eclipses this year; the first is of the <hi>Sun,</hi> on the 11th. day of <hi>May,</hi> at one of the Clock in the morning, in 1 degree of <hi>Taurus:</hi> the second is the <hi>Moon,</hi> on <hi>May</hi> the 16th. day, at 8
+<pb n="4" facs="tcp:207507:4"/>of the Clock in the morning, in 16 degrees of <hi>Scorpio:</hi> the last is of the <hi>Moon, October</hi> the 19th. day▪ at 8 of the Clock at Night, in 7 degrees of <hi>Ta<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us</hi> visible. There is also the first Square of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Jupiter</hi> this year, <hi>Saturn</hi> being 1.3. of <hi>Aquarius,</hi> and <hi>Jupiter</hi> in 1.3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. of <hi>Scorpio</hi>
+               </p>
+               <p>Hard is the fate of poor <hi>Holland, Scotland,</hi> and <hi>Ireland,</hi> for to indure so long a time of Sorrow, yet thou art not a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one, for <hi>Tartary</hi> and <hi>Muscovia</hi> share with thee, for the <hi>Polander</hi> now beats the <hi>Tartar,</hi> and sends him home with a Flea in his Ear: Now doth the <hi>Tur<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> gain ground upon <hi>Italy,</hi> now doth he feel the Eff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts of the triple <hi>Conjun<g ref="char:EOLhyphen"/>ction</hi> to purpose. Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> first <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uartile make a be<g ref="char:EOLhyphen"/>ginning, which will continue now until almost all <hi>Italy</hi> is lost which will be in 3 or 4 years after this, yet is poor <hi>Oxford</hi> afflicted, that City will find what it is to have <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Comet appear in their Sign, but be thou patient, when thou hast been tryed thou wilt appear like burnished Gold, it is in vain to contend with so Potent an Enemy as thou hast to deal with, this being all she hath to bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st of, that her sufferings be not alone.</p>
+               <p>There is a Family in <hi>Europe</hi> that had its rise to greatness <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bout the Year 1344, that Family now will fi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a downfal for ever, the Name of <hi>Pe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cys</hi> had t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r Original about the year 1067, under a <hi>Conj<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ion</hi> of <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>turn</hi> and <hi>Jupiter</hi> in <hi>Virgo,</hi> and the <hi>Conju<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ction</hi> in <hi>Pises</hi> 1642/3, brought that Name and Family to nothing.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:207507:4"/>
+               <head>Of the Astrological Judgment for the Year 1698.</head>
+               <p>IN this year we have no Directiont of the great Conjunction, only we have the Mid-heaven of the appearances of the New Star 1604, to this Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> 1682, we have also a famous Conjunction of <hi>Saturn</hi> and <hi>Mars</hi> in 18 degrees of <hi>Aquarius</hi> in Opposition to the Conjunction 1682 and 1683. There is also a famous Conjunction of <hi>Jupiter</hi> and <hi>Mars</hi> in 22 degrees of <hi>Sco<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>io, August</hi> 29, we have also two Eclypses of the Sun, the one in <hi>Aries England</hi>'s Sign, the other <hi>Libra.</hi> The first falls <hi>March</hi> the 31st. at 7 of the Clock at Night, in 21 degrees of <hi>Aries</hi> not visible. The scond will be <hi>September</hi> the 24th. at 4 of the Clock in the morning, and there<g ref="char:EOLhyphen"/>fore not visible, it falls in 11 degrees of <hi>Libra,</hi> there is all the second Quadrate of <hi>Saturn</hi> and <hi>Jupiter;</hi> this Year <hi>Saturn</hi> is in 19.28. of <hi>Aquarius,</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in 19.28. in <hi>Scorpio.</hi>
+               </p>
+               <p>This is like to be a year of much action, for now <hi>Scorpio</hi> transites the Conjunction 1682, by an Opposition, and <hi>Jupiter</hi> by a Quadrate, great shall be the effect of this Quadrate, it threatens <hi>Italy</hi> with no less than Confusion and a total subversion of the tripple Crown, altho it may not be fully compleated this year, yet this year sets a great say to it, the Sea shall swell with great Navies of Ships, and there shall be great Sea Fights, <hi>England</hi> thou shalt have a Hand in it, thou shalt be victorious: Now <hi>France</hi>'s power is brought low, the late War hath destroyed Thousands of his Subjects, few or none of them but hath suffered to purpose through
+<pb n="6" facs="tcp:207507:5"/>the pride of an insulting King, and the envy of the <hi>Roman</hi> Clergy, the valiant <hi>Tartar</hi> receiv'd a great Thunder-stroak, but if you will look for the Bolt, you must go to <hi>Ireland.</hi> The Eclipse of the Sun in <hi>Aries</hi> destrovs Sheep and Hogs, it de<g ref="char:EOLhyphen"/>notes the Death of a Woman of great note, and also lamentable woe to most Men, and in <hi>Libra</hi> de<g ref="char:EOLhyphen"/>notes the Death of Kings and Nobles, it stirs up Sedition and Trouble about Customs and Privi<g ref="char:EOLhyphen"/>ledges, it is the Fore-runner of a Famine, and those places under <hi>Aries</hi> and <hi>Libra</hi> are most con<g ref="char:EOLhyphen"/>cern'd.</p>
+            </div>
+            <div type="part">
+               <head>Of the Astrological Judgment for the Year 1699.</head>
+               <p>THis year we have the great Conjunction 1603. comes by direction to the Opposition of <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> and the Sun to the Opposition of <hi>Mars,</hi> and <hi>Ʋenous</hi> to the <hi>Opposition</hi> of <hi>Mars,</hi> and the Moon to the body of <hi>Mars</hi> also, and we have the New Star 1604, comes by direction to the Quartile both of the Sun and <hi>Venus,</hi> besides the effects of the Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Mars</hi> last year, and the Op<g ref="char:EOLhyphen"/>position of <hi>Saturn</hi> and <hi>Mars</hi> this year. Besides we have no less than 4 Eclipses this Year. The first will be an Eclipse of the Moon, on <hi>March</hi> the 5th. day at 8 of the Clock at Night in 26 de<g ref="char:EOLhyphen"/>grees of <hi>Scorpio,</hi> visible. The second will be of the Sun on <hi>March</hi> the 21st day about 8 of the Clock in the Morning, in 11 degrees of <hi>Aries.</hi> The third will be an Eclipse of the Moon on <hi>August</hi> the 30th. near Noon, in 27 degrees of <hi>Pisces.</hi> The last will be an Eclipse of the Sun, on the 13th. day of <hi>September,</hi> about 11 of the
+<pb n="7" facs="tcp:207507:5"/>Clock in the Moring, in one degree of <hi>Libra,</hi> and much about the time of this Eclipse there hap<g ref="char:EOLhyphen"/>pens the Opposition of <hi>Saturn</hi> and <hi>Mars,</hi> which will aggravate the effects thereof.</p>
+               <p>Great will be the Action of this Year, those Vil<g ref="char:EOLhyphen"/>lanies that have for many years been kept as a Secret, will now be made known to every one. All Nations will be troubled with Rumours of Wars, every Religion preparing Armies, Traffick prohibited both by Land and Sea, the Main Sea shall hugely swell with mighty Tempests, so that the Sea-banks in many places shall overflow their accustomed bounds, Inundations universally every where now <hi>Holland</hi> look to thy self, terrible Sea Fights will be this Year, occasi ning the water to look more red than the Red Sea, the water turned to blood, War and Blood-shed over all the Earth; one Nation shall send so many Men to the Wars, that it for a time shall seem to be desolate of men, in the <hi>Eastern</hi> part of the World a whole Army shall be destroyed by Fire from Heaven, with their Wealth and Treasure: There shall also be a great drouth and want of Water, and the Earth shall be so parched that there will be no food for Cattle: Great Plagues and War shall cover the whole Face of the Earth, and so destroy Mankind, that there will not be sufficient Labourers to get in Har<g ref="char:EOLhyphen"/>vest, and the Vermin shall so destroy the Fruit on Trees, that all be barren, a general Famine and Dearth of Corn will overspread most Nations of <hi>Europe,</hi> so that Thousands shall starve for want of Bread; yet at the last we have a Sextile of <hi>Saturn</hi> and <hi>Jupiter,</hi> each of them being in their own House: Now shall one appear suddenly, a great Conqueror, the World filled with the fame of
+<pb n="8" facs="tcp:207507:6"/>this Man, who shall all of a sudden give Peace to all <hi>Europe.</hi> Oh! Happy time.</p>
+            </div>
+            <div type="part">
+               <head>Of the Astrological Judgment for the Year 1700.</head>
+               <p>IN this year we have the Ascendant of the great Conjunction 1603 by direction to the Body of the Moon, and <hi>Opposition</hi> of the Sun and <hi>Venus,</hi> There is also a Conjunction of <hi>Saturn</hi> and <hi>Mars</hi> in <hi>Pisces December</hi> 29th. day, we have also two Eclipses of the Moon: The first will be on <hi>February</hi> the 26th. day about 6 of the Clock in the Morning, in 15 degrees of <hi>Virgo,</hi> visible. The second will be on <hi>August</hi> the 18th. about two of the Clock in the Afternoon in 6 degrees of <hi>Pisces.</hi>
+               </p>
+               <p>This year will produce no great matter, only every Nation is endeavouring to settle it self, now is <hi>Rome</hi> destroyed, and the downfall of the seat of <hi>Peter,</hi> the Conversion of <hi>Turks</hi> and <hi>Jews</hi> soon follows, Religion truly Preached universally over all the World, a general Peace, no more Treason or Rebellion for a great many years, e<g ref="char:EOLhyphen"/>very Man now possesses his own Vineyard, Youths grow up to Mens Estates, old Men lives their full years, <hi>England</hi> thou shalt rejoyce as well as other Nations in the many blessings God affords you annually.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207507:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
